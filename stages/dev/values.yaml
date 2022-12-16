@@ -22,3 +22,5 @@ basic-auth-gateway:
   namespace: routing
 elastic-stack:
   namespace: monitoring
+apache-spark:
+  namespace: apache-spark
